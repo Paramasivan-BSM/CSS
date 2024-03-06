@@ -1,0 +1,32 @@
+/* color: Sets the color of the text */
+color: blue; /* Example: Sets the color of the link text to blue */
+
+/* text-decoration: Adds decoration to text such as underline, overline, or line-through */
+text-decoration: none; /* Example: Removes underline decoration from links */
+
+/* font-weight: Specifies the weight of the font */
+font-weight: bold; /* Example: Sets the font weight of the link text to bold */
+
+/* cursor: Specifies the type of cursor to be displayed when hovering over the link */
+cursor: pointer; /* Example: Changes the cursor to a pointer when hovering over the link */
+
+/* background-color: Sets the background color behind the link text */
+background-color: yellow; /* Example: Sets a yellow background color behind the link text */
+
+/* padding: Specifies the padding inside the link */
+padding: 5px; /* Example: Sets a padding of 5 pixels inside the link */
+
+/* border: Specifies the border properties of the link */
+border: 1px solid black; /* Example: Sets a 1 pixel black solid border around the link */
+
+/* border-radius: Specifies the radius of the border corners */
+border-radius: 5px; /* Example: Rounds the corners of the link border */
+
+/* display: Specifies how the link should be displayed */
+display: inline-block; /* Example: Makes the link behave like an inline-block element */
+
+/* text-align: Aligns text horizontally within its container */
+text-align: center; /* Example: Centers the link text horizontally */
+
+/* transition: Specifies the transition effects for the link */
+transition: color 0.3s ease; /* Example: Smoothly transitions the color change of the link over 0.3 seconds with ease */

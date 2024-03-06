@@ -1,0 +1,35 @@
+/* list-style-type: Specifies the type of marker for list items */
+list-style-type: disc; /* Example: Sets a filled circle as the marker for list items */
+
+/* list-style-image: Specifies an image as the marker for list items */
+list-style-image: url('marker.png'); /* Example: Uses an image file named marker.png as the marker for list items */
+
+/* list-style-position: Specifies the position of the marker relative to the list item */
+list-style-position: inside; /* Example: Places the marker inside the list item */
+
+/* list-style: Shorthand property for setting list style properties */
+list-style: square inside url('marker.png'); /* Example: Sets multiple list style properties in a single declaration */
+
+/* padding-left: Specifies the padding on the left side of list items */
+padding-left: 20px; /* Example: Adds 20 pixels of padding to the left side of list items */
+
+/* margin-top: Specifies the margin on the top side of list items */
+margin-top: 10px; /* Example: Adds 10 pixels of margin to the top side of list items */
+
+/* margin-bottom: Specifies the margin on the bottom side of list items */
+margin-bottom: 10px; /* Example: Adds 10 pixels of margin to the bottom side of list items */
+
+/* margin-left: Specifies the margin on the left side of list items */
+margin-left: 0; /* Example: Sets the margin on the left side of list items to 0 */
+
+/* margin-right: Specifies the margin on the right side of list items */
+margin-right: 0; /* Example: Sets the margin on the right side of list items to 0 */
+
+/* display: Specifies the display behavior of the list or list item */
+display: inline-block; /* Example: Makes the list or list item behave like an inline-block element */
+
+/* text-align: Aligns text horizontally within list items */
+text-align: left; /* Example: Aligns text to the left within list items */
+
+/* vertical-align: Aligns list items vertically within their container */
+vertical-align: top; /* Example: Aligns list items to the top of their container */

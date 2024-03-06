@@ -1,0 +1,38 @@
+/* border-collapse: Specifies whether table borders should be collapsed into a single border or separated */
+border-collapse: collapse; /* Example: Collapses table borders into a single border */
+
+/* border-spacing: Specifies the spacing between adjacent borders of table cells */
+border-spacing: 5px; /* Example: Sets a spacing of 5 pixels between adjacent borders of table cells */
+
+/* caption-side: Specifies the placement of the table caption */
+caption-side: bottom; /* Example: Places the caption below the table */
+
+/* empty-cells: Specifies how empty cells in a table should be displayed */
+empty-cells: hide; /* Example: Hides borders and backgrounds of empty cells */
+
+/* table-layout: Specifies the algorithm used to lay out table cells, rows, and columns */
+table-layout: fixed; /* Example: Forces the table to use a fixed layout algorithm */
+
+/* width: Specifies the width of the table */
+width: 100%; /* Example: Sets the table width to 100% of its container */
+
+/* height: Specifies the height of the table */
+height: 200px; /* Example: Sets the table height to 200 pixels */
+
+/* background-color: Sets the background color of the table */
+background-color: #f2f2f2; /* Example: Sets a light gray background color for the table */
+
+/* color: Sets the text color within the table */
+color: black; /* Example: Sets the text color within the table to black */
+
+/* font-family: Specifies the font family for text within the table */
+font-family: Arial, sans-serif; /* Example: Sets the font family for text within the table */
+
+/* font-size: Specifies the font size for text within the table */
+font-size: 14px; /* Example: Sets the font size for text within the table to 14 pixels */
+
+/* text-align: Aligns text horizontally within table cells */
+text-align: center; /* Example: Centers text horizontally within table cells */
+
+/* vertical-align: Aligns text vertically within table cells */
+vertical-align: middle; /* Example: Centers text vertically within table cells */

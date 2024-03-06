@@ -1,0 +1,23 @@
+/* font-style: Specifies the style of the font */
+font-style: italic; /* Example: Sets the font style to italic */
+
+/* font-weight: Specifies the weight of the font */
+font-weight: bold; /* Example: Sets the font weight to bold */
+
+/* font-size: Specifies the size of the font */
+font-size: 16px; /* Example: Sets the font size to 16 pixels */
+
+/* line-height: Specifies the height of a line of text */
+line-height: 1.5; /* Example: Sets the line height to 1.5 times the font size */
+
+/* font-family: Specifies the font family */
+font-family: Arial, sans-serif; /* Example: Sets the font family to Arial, falling back to sans-serif if Arial is not available */
+
+/* font-variant: Controls the usage of small caps or normal font glyphs */
+font-variant: small-caps; /* Example: Converts lowercase letters to small capitals */
+
+/* font-stretch: Specifies the width of characters in a font */
+font-stretch: expanded; /* Example: Expands the width of characters in the font */
+
+/* font: Shorthand property for setting font properties */
+font: italic small-caps bold 16px Arial, sans-serif; /* Example: Sets multiple font properties in a single declaration */

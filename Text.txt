@@ -1,0 +1,32 @@
+/* text-align: Aligns text horizontally within its container. */
+text-align: center; /* Example: Center-aligns the text */
+
+/* text-decoration: Adds decorations to text such as underline, overline, or line-through. */
+text-decoration: underline; /* Example: Underlines the text */
+
+/* text-transform: Controls the capitalization of text. */
+text-transform: uppercase; /* Example: Converts text to uppercase */
+
+/* text-indent: Sets the indentation of the first line of text within an element. */
+text-indent: 20px; /* Example: Indents the first line of text by 20 pixels */
+
+/* line-height: Sets the height of a line box, controlling the space between lines of text. */
+line-height: 1.5; /* Example: Sets the line height to 1.5 times the font size */
+
+/* letter-spacing: Adjusts the spacing between characters in a text. */
+letter-spacing: 2px; /* Example: Increases the space between characters by 2 pixels */
+
+/* word-spacing: Adjusts the spacing between words in a text. */
+word-spacing: 5px; /* Example: Increases the space between words by 5 pixels */
+
+/* white-space: Controls how white space within an element is handled. */
+white-space: nowrap; /* Example: Prevents text from wrapping to the next line */
+
+/* text-overflow: Specifies how overflowed content should be signaled to the user. */
+text-overflow: ellipsis; /* Example: Adds an ellipsis (...) to indicate overflowed content */
+
+/* overflow-wrap: Specifies whether or not the browser may break lines within words to prevent overflow. */
+overflow-wrap: break-word; /* Example: Allows breaking of long words to prevent overflow */
+
+/* hyphens: Controls hyphenation of text. */
+hyphens: auto; /* Example: Automatically hyphenates text when necessary */
